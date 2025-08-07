@@ -34,6 +34,7 @@ Modeling: UML, Merise.
 Workflow: Agile Scrum.
 
 🌍 Languages
+
 Arabic & Tamazight: Native.
 
 French: C1.
