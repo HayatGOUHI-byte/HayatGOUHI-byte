@@ -8,4 +8,5 @@ I'm a passionate software engineer with a strong background in full-stack develo
 🎓 Education
 
 Engineering Degree: Data Science , FS Semlalia Marrakech, Morocco (2023-2025).
+
 Associate's Degree: Computer Science , EST Agadir, Morocco (2019-2021).
