@@ -1,6 +1,6 @@
 ## Hi there , I'm GOUHI Hayat 👋
 
-Full-Stack Developer | Data Scientist | AI Engineer
+**Full-Stack Developer | Data Scientist | AI Engineer**
 
 ---
 🌟 About Me
