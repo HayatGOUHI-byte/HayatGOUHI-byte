@@ -11,6 +11,8 @@ I'm a passionate software engineer with a strong background in full-stack develo
 
 - Engineering Degree: Data Science , FS Semlalia Marrakech, Morocco (2023-2025).
 
+- Diplôme de licence fondamentale Mathématiques et informatique option Sciences de Données, Faculté des sciences Appliquées, Ait Melloul(2022-2023).
+
 - Associate's Degree: Computer Science , EST Agadir, Morocco (2019-2021).
 
 ---
@@ -52,7 +54,7 @@ I'm a passionate software engineer with a strong background in full-stack develo
 
 🤖 AI & Machine Learning Projects
 
-- Data collection and cleaning for UR5-type robots: velocity, acceleration, positions, and speed. Prognostics and future prediction of robot behavior.
+- Data collection and cleaning for UR5-type robots: velocity, acceleration, positions, and speed. Prognostics and future prediction of robot behavior. Université TRGV (Etats-Unis).
 
 - Development of an automated process for structured data extraction from accounting documents, such as bank statements and invoices, for processing and analysis purposes.
 
@@ -60,7 +62,7 @@ I'm a passionate software engineer with a strong background in full-stack develo
 
 📊 Web Development Projects
 
-- Implementation of an E-commerce website.
+- Implementation of an E-commerce website.SarlOranger, Lille (France).
 
 - Design and development of a web platform dedicated to the sale of online training courses, allowing users to browse the course catalog, register, make secure payments, and access their personal learning space.
 
